@@ -44,4 +44,4 @@ Cada arquivo foi desenvolvido separadamente para entregar a resposta exata de ca
 
 ## 📝 Observações
 
-Este repositório (`lista-aula02-eloize`) contém exclusivamente as entregas dos exercícios solicitados no material da Aula 2 (Sintaxe, Tipos, Funções e Orientação a Objetos). 🚀
+Este repositório (`Lista-de-Exercicios-01`) contém exclusivamente as entregas dos exercícios solicitados no material da Aula 2 (Sintaxe, Tipos, Funções e Orientação a Objetos). 🚀
