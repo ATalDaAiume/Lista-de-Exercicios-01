@@ -7,19 +7,19 @@ Repositório criado para armazenar as **respostas da atividade prática** em **D
 
 ## 📚 Sobre
 
-Estes códigos representam a resolução completa dos 15 exercícios de "Live Coding" propostos no material da disciplina. O objetivo da atividade foi aplicar na prática os conceitos exigidos sobre a linguagem base do Flutter, abordando:
+Estes códigos representam a resolução completa dos 15 exercícios de "Live Coding" propostos no material da disciplina. O objetivo da atividade foi aplicar na prática os conceitos fundamentais da linguagem base do Flutter, focando especificamente em **Sintaxe, Tipos, Funções e Orientação a Objetos**, abordando:
 
-- 🔢 **Variáveis e Tipos Primitivos**: Declaração, inferência de tipos (`runtimeType`), constantes (`const` vs `final`) e conversões.
-- ⚙️ **Funções**: Implementação de funções tradicionais, *arrow functions*, parâmetros nomeados/opcionais e funções de alta ordem.
-- 📦 **Coleções**: Manipulação de listas de itens (`List`), estruturas de chave-valor (`Map`) e operações de conjunto (`Set`).
-- 🏗️ **Orientação a Objetos**: Criação de classes, atributos, métodos, construtores (principais e nomeados), uso de interfaces e herança utilizando `extends`.
-- 🧩 **Mixins**: Adição de funcionalidades modulares a classes sem o uso de herança múltipla.
+- 🔢 **Sintaxe e Tipos Primitivos**: Declaração de variáveis, inferência de tipos (`runtimeType`), conversões e uso de constantes (`const` vs `final`).
+- ⚙️ **Funções**: Implementação de funções tradicionais, *arrow functions*, parâmetros nomeados e funções de alta ordem.
+- 📦 **Coleções (List, Map, Set)**: Manipulação de listas, dicionários de chave-valor e operações de conjuntos matemáticos.
+- 🏗️ **Orientação a Objetos**: Criação de classes, atributos, construtores (principais e nomeados), interfaces e herança.
+- 🧩 **Mixins**: Adição de funcionalidades modulares a classes sem a necessidade de herança múltipla.
 
-Cada arquivo foi desenvolvido separadamente para entregar a resposta exata de cada uma das 15 questões listadas no PDF da aula.
+Cada ficheiro foi desenvolvido separadamente para entregar a resposta exata de cada uma das 15 questões listadas no material de apoio.
 
 ## 📂 Conteúdo
 
-| 📄 Arquivo             | 🧠 O que faz                                                                                                           |
+| 📄 Ficheiro            | 🧠 O que faz                                                                                                           |
 |------------------------|------------------------------------------------------------------------------------------------------------------------|
 | `Exercicio_1.dart`     | 🏷️ **Resolução 1:** Demonstra a declaração de variáveis com `var` e a inferência de tipos via `runtimeType`.         |
 | `Exercicio_2.dart`     | 🔒 **Resolução 2:** Ilustra a diferença prática entre variáveis imutáveis usando `const` e `final`.                    |
@@ -44,4 +44,4 @@ Cada arquivo foi desenvolvido separadamente para entregar a resposta exata de ca
 
 ## 📝 Observações
 
-Este repositório (`Lista-de-Exercicios-01`) contém exclusivamente as entregas dos exercícios solicitados no material da Aula 2 (Sintaxe, Tipos, Funções e Orientação a Objetos). 🚀
+Este repositório contém exclusivamente as entregas dos exercícios solicitados no material da Aula 2 (Sintaxe, Tipos, Funções e Orientação a Objetos). 🚀
